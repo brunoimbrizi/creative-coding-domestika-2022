@@ -72,6 +72,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 
 ## UNIT 3 - SKEW
+![image](https://user-images.githubusercontent.com/880280/159056917-d4817485-c1c8-41ff-9f89-0fce1954d523.png)
 
 #### L01 - Rectangle
 - [The drawing state](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/save#drawing_state)
@@ -96,6 +97,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 
 ## UNIT 4 - CURVES
+![image](https://user-images.githubusercontent.com/880280/159056477-4cd2cdad-4b48-459c-9e7f-5fe526c3895f.png)
 
 #### L01 - Quadratic
 - [bezierCurveTo](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/bezierCurveTo)
@@ -122,6 +124,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 
 ## UNIT 5 - AUDIO
+![image](https://user-images.githubusercontent.com/880280/159056423-6cbd972b-9d4f-4468-86ed-1fb9f3dfdcdb.png)
 
 #### L01 - Press Play
 - [Artlist](https://artlist.io/)
