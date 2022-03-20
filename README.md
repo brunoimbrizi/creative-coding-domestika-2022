@@ -174,4 +174,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 #### L05 - Image Data
 - [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [getImageData](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/getImageData)
-- 
+- [unsplash: Portrait by Art Hauntington](https://unsplash.com/photos/jzY0KRJopEI)
+- [unsplash: Balloon by Jesse Gardner](https://unsplash.com/photos/AEE4G-6h858)
+- [Image URL 64x64 portrait](https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=64&q=80)
+- [Image URL 64x64 balloon](https://images.unsplash.com/photo-1569041032556-6485fc04aff0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=64&h=64&q=80)
