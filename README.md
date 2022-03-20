@@ -81,7 +81,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 - [canvas-sketch-util/math](https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/math.md)
 
 #### L03 - Distribution
-- [canvas-sketch-util/random](https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/math.md)
+- [canvas-sketch-util/random](https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/random.md)
 
 #### L04 - Colors
 - [canvas-sketch-util/color](https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/color.md)
@@ -93,13 +93,14 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 - [CanvasRenderingContext2D.clip()](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/clip)
 
 #### L06 - Random Seed
-- [canvas-sketch-util/random](https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/math.md)
+- [canvas-sketch-util/random](https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/random.md)
 
 
 ## UNIT 4 - CURVES
 ![image](https://user-images.githubusercontent.com/880280/159056477-4cd2cdad-4b48-459c-9e7f-5fe526c3895f.png)
 
 #### L01 - Quadratic
+- [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [bezierCurveTo](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/bezierCurveTo)
 - [quadraticCurveTo](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/quadraticCurveTo)
 
@@ -107,12 +108,13 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 - [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 - [removeEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener)
 - [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent)
+- [Pythagorean Theorem](https://www.mathsisfun.com/pythagoras.html)
 
 #### L03 - Multi-point
 - [Erik Natzke](https://natzkestore.com/)
 
 #### L04 - Grid
-- [canvas-sketch-util](https://github.com/mattdesl/canvas-sketch-util)
+- [canvas-sketch-util/random](https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/random.md)
 - [Perlin Noise](http://web.archive.org/web/20160530124230/http://freespace.virgin.net/hugo.elias/models/m_perlin.htm)
 
 #### L05 - Segments
@@ -150,3 +152,26 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 #### L05 - Müller-Brockmann
 - [Josef Müller-Brockmann](http://www.designishistory.com/1940/joseph-mueller-brockmann/)
+
+
+## UNIT 6 - PARTICLES
+
+#### L01 - Particle
+- [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
+#### L02 - Forces
+- [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+- [Pythagorean Theorem](https://www.mathsisfun.com/pythagoras.html)
+
+#### L03 - Paul McNeil
+- [canvas-sketch-util/random](https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/random.md)
+- [Paul McNeil](https://paulmcneil.co.uk/)
+- [Reference](https://www.pinterest.co.uk/pin/390054017738507521/)
+
+#### L04 - Scale & Colors
+- [colormap](https://github.com/bpostlethwaite/colormap)
+
+#### L05 - Image Data
+- [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [getImageData](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/getImageData)
+- 
