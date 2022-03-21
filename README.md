@@ -130,7 +130,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 #### L01 - Press Play
 - [Artlist](https://artlist.io/)
-- [MP3 - ikoliks - Big City Lights](https://cdn.artlist.io/artlist-watermarkmp3/396812_396811__ikoliks_-_Big_City_Lights_-_100920_-_EXT_-_X_-_2444.mp3)
+- [MP3 URL: ikoliks - Big City Lights](https://cdn.artlist.io/artlist-watermarkmp3/396812_396811__ikoliks_-_Big_City_Lights_-_100920_-_EXT_-_X_-_2444.mp3)
 - [Audio codecs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Audio_codecs)
 - [Autoplay guide](https://developer.mozilla.org/en-US/docs/Web/Media/Autoplay_guide)
 
@@ -155,6 +155,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 
 ## UNIT 6 - PARTICLES
+![image](https://user-images.githubusercontent.com/880280/159233839-fd9d46fb-07ae-47d7-917d-152e1067fafe.png)
 
 #### L01 - Particle
 - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
