@@ -15,23 +15,21 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 #### CanvasRenderingContext2D
 > The CanvasRenderingContext2D interface, part of the [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API), provides the 2D rendering context for the drawing surface of a `<canvas>` element. It is used for drawing shapes, text, images, and other objects.
-
 - [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
 
 #### canvas-sketch
 > `canvas-sketch` is a loose collection of tools, modules and resources for creating generative art in JavaScript and the browser using the `<canvas>` tag. It is designed to help create artworks and images with code, randomness, algorithms, and emergent systems.
-
 - [canvas-sketch API Docs](https://github.com/mattdesl/canvas-sketch/blob/master/docs/api.md)
 - [canvas-sketch CLI Docs](https://github.com/mattdesl/canvas-sketch/blob/master/docs/cli.md)
 
 #### Online templates
-
 - [StackBlitz template](https://stackblitz.com/edit/js-ph9w9y)
 - [CodeSandbox template](https://codesandbox.io/s/canvas-sketch-default-uz11b)
 
 
 ## UNIT 2 - Setup
+![image](https://user-images.githubusercontent.com/880280/159807970-5a271b33-1b50-439a-8efb-fed91b8a5d7d.png)
 
 #### L01 - JavaScript Recap
 - [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
@@ -72,7 +70,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 
 ## UNIT 3 - SKEW
-![image](https://user-images.githubusercontent.com/880280/159056917-d4817485-c1c8-41ff-9f89-0fce1954d523.png)
+![image](https://user-images.githubusercontent.com/880280/159804767-9e5c54d6-fb4b-4aae-9044-8fabaebd845f.png)
 
 #### L01 - Rectangle
 - [The drawing state](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/save#drawing_state)
@@ -97,7 +95,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 
 ## UNIT 4 - CURVES
-![image](https://user-images.githubusercontent.com/880280/159056477-4cd2cdad-4b48-459c-9e7f-5fe526c3895f.png)
+![image](https://user-images.githubusercontent.com/880280/159805050-690eb94d-6ddb-48b7-b216-82bcacca1288.png)
 
 #### L01 - Quadratic
 - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
@@ -126,7 +124,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 
 ## UNIT 5 - AUDIO
-![image](https://user-images.githubusercontent.com/880280/159056423-6cbd972b-9d4f-4468-86ed-1fb9f3dfdcdb.png)
+![image](https://user-images.githubusercontent.com/880280/159805139-2fd52c52-aeec-4a31-86ed-e5158e30a4f6.png)
 
 #### L01 - Press Play
 - [Artlist](https://artlist.io/)
@@ -155,7 +153,7 @@ The course is focused on creating visuals using JavaScript. In case you are new 
 
 
 ## UNIT 6 - PARTICLES
-![image](https://user-images.githubusercontent.com/880280/159233839-fd9d46fb-07ae-47d7-917d-152e1067fafe.png)
+![image](https://user-images.githubusercontent.com/880280/159805822-83372426-7acd-41cd-9b47-33ddc3cbefc5.png)
 
 #### L01 - Particle
 - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
