@@ -1,6 +1,6 @@
-coding-course-2.0
-=================
-Resources and notes for students of the course [Creative Coding: Making Visuals with JavaScript 2.0]() at Domestika.
+creative-coding-domestika-2022
+==============================
+Resources and notes for students of the course [WIP TITLE Creative Coding Domestika 2022]() at Domestika.
 
 
 ## General Resources
